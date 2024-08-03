@@ -4,6 +4,9 @@ Online Sales Data Analysis and Dashboard
 - Data Cleaning and Analysis – MySQL
 - Data Visualization – Power BI
 
+![Screenshot 2024-07-29 202711](https://github.com/user-attachments/assets/5e4f6c39-68ff-43e8-8fc1-e8dd27a88327)
+![Screenshot 2024-07-29 202733](https://github.com/user-attachments/assets/6e3b52cf-51c6-4e35-9943-ae44722729eb)
+
 Case Overview
 The Online Sales Data set provides a comprehensive view of the sales performance of various products across different regions and time periods. This analysis aims to uncover key insights into the products' sales trends, revenue generation, and regional performance. By leveraging SQL for data analysis and Power BI for visualization, we can provide a detailed and intuitive understanding of the sales dynamics and support strategic decision-making for the business.
 
